@@ -43,11 +43,12 @@ Consultant, research analyst and others often have a hard time gathering market 
 ### Features
 
 - **Company Overview**: Provides basic information about the company, including its founding, key personnel, and significant milestones.
-- **Funding Rounds**: Lists the various funding rounds the company has gone through, including amounts raised and key investors.
 - **Investors**: Details the investors who have funded the company.
 - **Business Model**: Describes the company's business model and revenue streams.
 - **Market Analysis**: Provides insights into the market in which the company operates, including key trends and competitor analysis.
 - **SWOT Analysis**: Presents a SWOT analysis of the company, outlining its strengths, weaknesses, opportunities, and threats.
+- **Latest news**: Provides the latest news on the company if there where any in the last 7 days.
+- **Stock chart**: Presents a Stock Price chart if the company is listed.
 
 ### Example Report
 
