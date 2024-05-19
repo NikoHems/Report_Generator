@@ -256,7 +256,6 @@ st.write(description)
 
 with st.expander("Instructions and Code Information"):
     st.write("""
-    Here you can add detailed instructions on how to use the program, as well as explanations on how the code was built.
 
     ### How to Input Data
     - Step 1: Enter the company name in the provided input field.
